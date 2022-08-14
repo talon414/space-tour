@@ -70,7 +70,7 @@ scene("space", () => {
 		sprite('spaceship-forward'),
 		area(),
 		layer('game'),
-		pos(50,height()/2),
+		pos(250,height()/2),
 		origin("center"),
 		"spaceship-forward",
 		{
